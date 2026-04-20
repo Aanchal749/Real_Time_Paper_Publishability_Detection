@@ -1,8 +1,7 @@
 streamlit
-anthropic
-PyMuPDF
-supabase
-scikit-learn
 torch
+scikit-learn
 sentence-transformers
 transformers
+PyMuPDF
+supabase
