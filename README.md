@@ -2,7 +2,7 @@
 
 > **An enterprise-grade, multimodal AI pipeline that evaluates research artifacts for publication readiness and dynamically routes them to optimal ML conferences.**
 
-![Output Screenshot](web output.png) *(Note: Replace with actual image path)*
+![Output Screenshot](https://github.com/Aanchal749/Real_Time_Paper_Publishability_Detection/blob/aa57b1814fd8bdb7178076210cbfac8162e289b6/web%20output.png)
 
 ---
 
