@@ -7,4 +7,5 @@ pandas
 numpy
 pymupdf
 anthropic
-pathway
+PyMuPDF
+pathway[all]
