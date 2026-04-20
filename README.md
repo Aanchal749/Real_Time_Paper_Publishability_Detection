@@ -33,18 +33,26 @@ The **Academic Publishability Engine** bridges this gap. By leveraging a multi-s
 ---
 
 ## 📸 System Output & Visuals
+## 📸 Output Screenshots
 
-### 1. 🖥️ The Enterprise Dashboard
+### 1. 🖥️ Enterprise Dashboard
 The main evaluation interface featuring active ensemble tracking and system status.
-![Dashboard Screenshot](./assets/dashboard.png)
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/Aanchal749/Real_Time_Paper_Publishability_Detection/f4e1b9c771e66c318e32ec99e1c9a5e32bf1a9ff/web%20output.png)
+
+---
 
 ### 2. 🚫 Gatekeeper Rejection
 Real-time structural analysis blocking a non-publishable artifact.
-![Rejection Screenshot](./assets/rejected.png)
+
+![Rejection Screenshot](https://raw.githubusercontent.com/Aanchal749/Real_Time_Paper_Publishability_Detection/3650980f0b09a4b26b91f2a31dabc0e60daeadc1/web%20output3.png)
+
+---
 
 ### 3. ✅ AI Routing Rationale
-A successfully accepted paper dynamically routed to a conference, complete with keyword extraction and soft-voting probability distributions.
-![Accepted Screenshot](./assets/accepted.png)
+A successfully accepted paper dynamically routed to a conference, complete with keyword extraction and probability distribution.
+
+![Accepted Screenshot](https://raw.githubusercontent.com/Aanchal749/Real_Time_Paper_Publishability_Detection/f4e1b9c771e66c318e32ec99e1c9a5e32bf1a9ff/web%20output2.png)
 
 ---
 
