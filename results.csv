@@ -1,0 +1,136 @@
+Paper ID,Publishable,Conference,Rationale
+P001,0,na,na
+P002,0,na,na
+P003,0,na,na
+P004,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.47). Key discriminative terms: training, features, classification, data. Secondary match: TMLR (27%)."
+P005,0,na,na
+P006,0,na,na
+P007,0,na,na
+P008,1,TMLR,"Classified as TMLR (28% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R008' (cosine=0.55). Key discriminative terms: model, context, research, models. Secondary match: KDD (28%)."
+P009,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.42). Key discriminative terms: models, model, learning, methods. Secondary match: TMLR (27%)."
+P010,1,KDD,"Classified as KDD (39% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R011' (cosine=0.51). Key discriminative terms: user, model, learning, performance. Secondary match: TMLR (28%)."
+P011,0,na,na
+P012,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.34). Key discriminative terms: embedding, parameters, loss, training. Secondary match: TMLR (29%)."
+P013,1,KDD,"Classified as KDD (25% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.48). Key discriminative terms: signal, model, data, used. Secondary match: EMNLP (23%)."
+P014,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.42). Key discriminative terms: representations, network, layer, dataset. Secondary match: TMLR (27%)."
+P015,0,na,na
+P016,0,na,na
+P017,1,KDD,"Classified as KDD (38% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R006' (cosine=0.50). Key discriminative terms: time, based, using, popularity. Secondary match: EMNLP (21%)."
+P018,1,TMLR,"Classified as TMLR (27% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R014' (cosine=0.44). Key discriminative terms: loss, solution, adaptive, time. Secondary match: KDD (26%)."
+P019,1,KDD,"Classified as KDD (38% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.33). Key discriminative terms: medication, disease, time, data. Secondary match: TMLR (26%)."
+P020,1,KDD,"Classified as KDD (28% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.45). Key discriminative terms: learning, approach, methods, models. Secondary match: TMLR (26%)."
+P021,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R012' (cosine=0.52). Key discriminative terms: self, self attention, attention, model. Secondary match: TMLR (27%)."
+P022,0,na,na
+P023,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R006' (cosine=0.32). Key discriminative terms: attention, layer, model, models. Secondary match: TMLR (28%)."
+P024,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R012' (cosine=0.48). Key discriminative terms: model, data, training, effectiveness. Secondary match: TMLR (24%)."
+P025,1,KDD,"Classified as KDD (31% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.42). Key discriminative terms: datasets, accuracy, classification, methods. Secondary match: TMLR (25%)."
+P026,0,na,na
+P027,0,na,na
+P028,0,na,na
+P029,1,CVPR,"Classified as CVPR (32% ensemble confidence, LOW). Semantic similarity to CVPR benchmark paper 'R006' (cosine=0.33). Key discriminative terms: models, data, accuracy, 200. Secondary match: TMLR (25%)."
+P030,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R014' (cosine=0.29). Key discriminative terms: time, based, different, methods. Secondary match: TMLR (26%)."
+P031,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.32). Key discriminative terms: models, using, data, utilize. Secondary match: EMNLP (23%)."
+P032,0,na,na
+P033,1,KDD,"Classified as KDD (32% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.49). Key discriminative terms: transition, based, representation, second. Secondary match: EMNLP (29%)."
+P034,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.40). Key discriminative terms: layer, standard, embedding, self. Secondary match: TMLR (29%)."
+P035,0,na,na
+P036,0,na,na
+P037,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.46). Key discriminative terms: datasets, dataset, using, data. Secondary match: EMNLP (26%)."
+P038,0,na,na
+P039,0,na,na
+P040,0,na,na
+P041,0,na,na
+P042,1,KDD,"Classified as KDD (27% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R007' (cosine=0.37). Key discriminative terms: alignment, supervised, based, models. Secondary match: TMLR (26%)."
+P043,0,na,na
+P044,0,na,na
+P045,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.38). Key discriminative terms: model, models, training, using. Secondary match: TMLR (28%)."
+P046,1,NEURIPS,"Classified as NEURIPS (41% ensemble confidence, LOW). Semantic similarity to NEURIPS benchmark paper 'R013' (cosine=0.53). Key discriminative terms: adversarial, robustness, adversarial robustness, training. Secondary match: TMLR (28%)."
+P047,0,na,na
+P048,0,na,na
+P049,1,KDD,"Classified as KDD (31% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.47). Key discriminative terms: self, training, data, network. Secondary match: TMLR (27%)."
+P050,0,na,na
+P051,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.48). Key discriminative terms: time, data, learning, representation. Secondary match: TMLR (24%)."
+P052,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.43). Key discriminative terms: network, features, model, method. Secondary match: TMLR (24%)."
+P053,0,na,na
+P054,0,na,na
+P055,0,na,na
+P056,0,na,na
+P057,0,na,na
+P058,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.41). Key discriminative terms: time, time series, series, data. Secondary match: TMLR (27%)."
+P059,1,KDD,"Classified as KDD (31% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.39). Key discriminative terms: time, state, data, research. Secondary match: TMLR (26%)."
+P060,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R006' (cosine=0.45). Key discriminative terms: location, use, score, using. Secondary match: CVPR (24%)."
+P061,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.44). Key discriminative terms: representations, learning, contrastive, positive. Secondary match: TMLR (29%)."
+P062,1,TMLR,"Classified as TMLR (29% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R014' (cosine=0.41). Key discriminative terms: model, loss, models, behavior. Secondary match: KDD (24%)."
+P063,0,na,na
+P064,1,KDD,"Classified as KDD (27% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R007' (cosine=0.40). Key discriminative terms: self, models, model, learning. Secondary match: TMLR (25%)."
+P065,0,na,na
+P066,1,KDD,"Classified as KDD (35% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.45). Key discriminative terms: model, performance, models, time. Secondary match: TMLR (24%)."
+P067,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.47). Key discriminative terms: access, data, items, user. Secondary match: EMNLP (31%)."
+P068,1,CVPR,"Classified as CVPR (28% ensemble confidence, LOW). Semantic similarity to CVPR benchmark paper 'R006' (cosine=0.34). Key discriminative terms: temporal, feature, detection, object. Secondary match: KDD (28%)."
+P069,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.22). Key discriminative terms: time, model, study, various. Secondary match: TMLR (29%)."
+P070,0,na,na
+P071,0,na,na
+P072,0,na,na
+P073,0,na,na
+P074,1,CVPR,"Classified as CVPR (29% ensemble confidence, LOW). Semantic similarity to CVPR benchmark paper 'R007' (cosine=0.52). Key discriminative terms: images, image, model, challenge. Secondary match: KDD (29%)."
+P075,0,na,na
+P076,0,na,na
+P077,0,na,na
+P078,1,KDD,"Classified as KDD (37% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.27). Key discriminative terms: network, approach, used, data. Secondary match: EMNLP (22%)."
+P079,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.29). Key discriminative terms: datasets, data, learning, popular. Secondary match: TMLR (24%)."
+P080,1,KDD,"Classified as KDD (37% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R009' (cosine=0.35). Key discriminative terms: research, using, use, positive. Secondary match: EMNLP (28%)."
+P081,0,na,na
+P082,1,TMLR,"Classified as TMLR (31% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R015' (cosine=0.44). Key discriminative terms: loss, known, data, following. Secondary match: KDD (30%)."
+P083,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R009' (cosine=0.38). Key discriminative terms: research, dataset, separation, work. Secondary match: EMNLP (22%)."
+P084,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.35). Key discriminative terms: research, learning, methods, representations. Secondary match: EMNLP (21%)."
+P085,0,na,na
+P086,0,na,na
+P087,1,KDD,"Classified as KDD (33% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R006' (cosine=0.40). Key discriminative terms: time, features, model, location. Secondary match: CVPR (30%)."
+P088,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.55). Key discriminative terms: representations, network, methods, learning. Secondary match: TMLR (26%)."
+P089,1,TMLR,"Classified as TMLR (31% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R014' (cosine=0.52). Key discriminative terms: model, gradient, loss, bound. Secondary match: KDD (31%)."
+P090,0,na,na
+P091,0,na,na
+P092,1,KDD,"Classified as KDD (32% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.46). Key discriminative terms: network, performance, methods, various. Secondary match: TMLR (27%)."
+P093,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R014' (cosine=0.42). Key discriminative terms: validation, performance, models, training. Secondary match: TMLR (30%)."
+P094,0,na,na
+P095,1,TMLR,"Classified as TMLR (31% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R014' (cosine=0.43). Key discriminative terms: sample, research, real, method. Secondary match: KDD (28%)."
+P096,0,na,na
+P097,0,na,na
+P098,0,na,na
+P099,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.40). Key discriminative terms: datasets, layer, network, model. Secondary match: TMLR (25%)."
+P100,0,na,na
+P101,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.39). Key discriminative terms: disease, positive, using, time. Secondary match: TMLR (26%)."
+P102,1,KDD,"Classified as KDD (32% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.41). Key discriminative terms: model, different, dataset, network. Secondary match: CVPR (24%)."
+P103,1,EMNLP,"Classified as EMNLP (29% ensemble confidence, LOW). Semantic similarity to EMNLP benchmark paper 'R008' (cosine=0.37). Key discriminative terms: language, data, accuracy, set. Secondary match: KDD (27%)."
+P104,0,na,na
+P105,0,na,na
+P106,0,na,na
+P107,0,na,na
+P108,0,na,na
+P109,1,KDD,"Classified as KDD (38% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R011' (cosine=0.39). Key discriminative terms: datasets, models, attention, cross. Secondary match: EMNLP (22%)."
+P110,1,KDD,"Classified as KDD (34% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.39). Key discriminative terms: data, table, models, specifically. Secondary match: EMNLP (28%)."
+P111,1,KDD,"Classified as KDD (28% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.46). Key discriminative terms: datasets, models, data, various. Secondary match: TMLR (27%)."
+P112,0,na,na
+P113,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R012' (cosine=0.41). Key discriminative terms: model, based, learning, network. Secondary match: TMLR (26%)."
+P114,0,na,na
+P115,1,KDD,"Classified as KDD (30% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.36). Key discriminative terms: models, training, model, learning. Secondary match: TMLR (24%)."
+P116,1,KDD,"Classified as KDD (35% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.36). Key discriminative terms: datasets, accuracy, features, values. Secondary match: TMLR (21%)."
+P117,1,KDD,"Classified as KDD (31% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.45). Key discriminative terms: using, training, research, learning. Secondary match: TMLR (25%)."
+P118,1,KDD,"Classified as KDD (38% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.50). Key discriminative terms: representations, alignment, data, model. Secondary match: TMLR (23%)."
+P119,0,na,na
+P120,1,KDD,"Classified as KDD (31% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.50). Key discriminative terms: models, model, representations, methods. Secondary match: TMLR (26%)."
+P121,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R014' (cosine=0.45). Key discriminative terms: loss, network, performance, learning. Secondary match: TMLR (27%)."
+P122,1,KDD,"Classified as KDD (39% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R006' (cosine=0.22). Key discriminative terms: data, based, current, ground. Secondary match: CVPR (25%)."
+P123,1,KDD,"Classified as KDD (35% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.47). Key discriminative terms: representations, model, positive, models. Secondary match: EMNLP (26%)."
+P124,0,na,na
+P125,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R015' (cosine=0.42). Key discriminative terms: state art, state, art, work. Secondary match: TMLR (28%)."
+P126,1,KDD,"Classified as KDD (29% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R013' (cosine=0.48). Key discriminative terms: data, cross, methods, datasets. Secondary match: TMLR (28%)."
+P127,0,na,na
+P128,1,KDD,"Classified as KDD (36% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.43). Key discriminative terms: based, model, 12, 11. Secondary match: EMNLP (25%)."
+P129,0,na,na
+P130,0,na,na
+P131,1,TMLR,"Classified as TMLR (29% ensemble confidence, LOW). Semantic similarity to TMLR benchmark paper 'R015' (cosine=0.45). Key discriminative terms: using, step, data, method. Secondary match: KDD (27%)."
+P132,1,CVPR,"Classified as CVPR (33% ensemble confidence, LOW). Semantic similarity to CVPR benchmark paper 'R007' (cosine=0.38). Key discriminative terms: approaches, quality, multi, use. Secondary match: KDD (32%)."
+P133,1,KDD,"Classified as KDD (34% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R008' (cosine=0.42). Key discriminative terms: transition, based, transitions, representations. Secondary match: EMNLP (21%)."
+P134,0,na,na
+P135,1,KDD,"Classified as KDD (34% ensemble confidence, LOW). Semantic similarity to KDD benchmark paper 'R014' (cosine=0.63). Key discriminative terms: network, training, data, learning. Secondary match: TMLR (34%)."

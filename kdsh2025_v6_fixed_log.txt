@@ -1,0 +1,2702 @@
+KDSH 2025 — v6 FIXED Deep Learning Report
+==============================================================
+
+──────────────────────────────────────────────────────────────
+Paper : P001
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6428  (threshold=0.50)
+  BiLSTM Score    : 0.5523
+  SciBERT Score   : 0.6587
+  Classical Score : 0.7653
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.28
+  Keyword Variety : 0.33
+  Composite Score : 0.278
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P002
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3132  (threshold=0.50)
+  BiLSTM Score    : 0.5476
+  SciBERT Score   : 0.2038
+  Classical Score : 0.0913
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.24
+  Keyword Variety : 0.83
+  Composite Score : 0.441
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P003
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5659  (threshold=0.50)
+  BiLSTM Score    : 0.5465
+  SciBERT Score   : 0.7135
+  Classical Score : 0.3903
+  Votes           : 2/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.00
+  Keyword Variety : 0.67
+  Composite Score : 0.337
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P004
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7182  (threshold=0.50)
+  BiLSTM Score    : 0.5533
+  SciBERT Score   : 0.8275
+  Classical Score : 0.8290
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.64
+  Keyword Variety : 1.00
+  Composite Score : 0.430
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P005
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6639  (threshold=0.50)
+  BiLSTM Score    : 0.5494
+  SciBERT Score   : 0.7585
+  Classical Score : 0.7145
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 0.12
+  Keyword Variety : 0.50
+  Composite Score : 0.415
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P006
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4014  (threshold=0.50)
+  BiLSTM Score    : 0.5470
+  SciBERT Score   : 0.3794
+  Classical Score : 0.1995
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.08
+  Keyword Variety : 0.67
+  Composite Score : 0.137
+  Flags           : FEW_CITES, NO_FIGS, WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P007
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6593  (threshold=0.50)
+  BiLSTM Score    : 0.5497
+  SciBERT Score   : 0.7920
+  Classical Score : 0.6490
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 6
+  Math Density    : 0.04
+  Keyword Variety : 0.83
+  Composite Score : 0.457
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P008
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6587  (threshold=0.50)
+  BiLSTM Score    : 0.5479
+  SciBERT Score   : 0.7996
+  Classical Score : 0.6385
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 5
+  Figures         : 2  Tables: 2
+  Math Density    : 0.00
+  Keyword Variety : 0.67
+  Composite Score : 0.417
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P009
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7027  (threshold=0.50)
+  BiLSTM Score    : 0.5504
+  SciBERT Score   : 0.8186
+  Classical Score : 0.7844
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 1
+  Figures         : 0  Tables: 9
+  Math Density    : 0.16
+  Keyword Variety : 1.00
+  Composite Score : 0.397
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P010
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7089  (threshold=0.50)
+  BiLSTM Score    : 0.5524
+  SciBERT Score   : 0.7925
+  Classical Score : 0.8425
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 6
+  Math Density    : 0.56
+  Keyword Variety : 1.00
+  Composite Score : 0.620
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P011
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6743  (threshold=0.50)
+  BiLSTM Score    : 0.5513
+  SciBERT Score   : 0.7407
+  Classical Score : 0.7783
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.76
+  Keyword Variety : 0.67
+  Composite Score : 0.489
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P012
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6792  (threshold=0.50)
+  BiLSTM Score    : 0.5534
+  SciBERT Score   : 0.7316
+  Classical Score : 0.8071
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 12
+  Figures         : 2  Tables: 1
+  Math Density    : 1.00
+  Keyword Variety : 1.00
+  Composite Score : 0.650
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P013
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6706  (threshold=0.50)
+  BiLSTM Score    : 0.5504
+  SciBERT Score   : 0.8102
+  Classical Score : 0.6675
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 2
+  Figures         : 0  Tables: 0
+  Math Density    : 0.00
+  Keyword Variety : 1.00
+  Composite Score : 0.378
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P014
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6857  (threshold=0.50)
+  BiLSTM Score    : 0.5508
+  SciBERT Score   : 0.8126
+  Classical Score : 0.7238
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.12
+  Keyword Variety : 0.83
+  Composite Score : 0.356
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P015
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6746  (threshold=0.50)
+  BiLSTM Score    : 0.5502
+  SciBERT Score   : 0.7608
+  Classical Score : 0.7532
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 6
+  Math Density    : 0.20
+  Keyword Variety : 0.83
+  Composite Score : 0.401
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P016
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4126  (threshold=0.50)
+  BiLSTM Score    : 0.5484
+  SciBERT Score   : 0.3926
+  Classical Score : 0.2235
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.24
+  Keyword Variety : 0.33
+  Composite Score : 0.266
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P017
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7006  (threshold=0.50)
+  BiLSTM Score    : 0.5520
+  SciBERT Score   : 0.7687
+  Classical Score : 0.8430
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 1
+  Figures         : 1  Tables: 6
+  Math Density    : 1.00
+  Keyword Variety : 0.50
+  Composite Score : 0.563
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P018
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6949  (threshold=0.50)
+  BiLSTM Score    : 0.5534
+  SciBERT Score   : 0.8010
+  Classical Score : 0.7728
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 5
+  Figures         : 1  Tables: 4
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.649
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P019
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6521  (threshold=0.50)
+  BiLSTM Score    : 0.5497
+  SciBERT Score   : 0.7220
+  Classical Score : 0.7182
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.44
+  Keyword Variety : 1.00
+  Composite Score : 0.454
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P020
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5694  (threshold=0.50)
+  BiLSTM Score    : 0.5477
+  SciBERT Score   : 0.7389
+  Classical Score : 0.3667
+  Votes           : 2/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.08
+  Keyword Variety : 0.83
+  Composite Score : 0.423
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P021
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7166  (threshold=0.50)
+  BiLSTM Score    : 0.5534
+  SciBERT Score   : 0.8168
+  Classical Score : 0.8373
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 5
+  Math Density    : 0.68
+  Keyword Variety : 1.00
+  Composite Score : 0.558
+  Flags           : FEW_CITES, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P022
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4348  (threshold=0.50)
+  BiLSTM Score    : 0.5470
+  SciBERT Score   : 0.3938
+  Classical Score : 0.3128
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.33
+  Composite Score : 0.327
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P023
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6850  (threshold=0.50)
+  BiLSTM Score    : 0.5529
+  SciBERT Score   : 0.7517
+  Classical Score : 0.8029
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 1
+  Figures         : 6  Tables: 2
+  Math Density    : 0.80
+  Keyword Variety : 0.83
+  Composite Score : 0.695
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P024
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6390  (threshold=0.50)
+  BiLSTM Score    : 0.5482
+  SciBERT Score   : 0.8185
+  Classical Score : 0.5328
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 15
+  Figures         : 2  Tables: 10
+  Math Density    : 0.00
+  Keyword Variety : 1.00
+  Composite Score : 0.603
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P025
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : HARD_VETO
+  Blended Score   : 0.6919  (threshold=0.50)
+  BiLSTM Score    : 0.5501
+  SciBERT Score   : 0.7795
+  Classical Score : 0.7960
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : NON_PUB_PHRASES=3
+  Section Coverage: 83%
+  Citations       : 5
+  Figures         : 7  Tables: 4
+  Math Density    : 0.32
+  Keyword Variety : 1.00
+  Composite Score : 0.379
+  Flags           : WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P026
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4486  (threshold=0.50)
+  BiLSTM Score    : 0.5489
+  SciBERT Score   : 0.4036
+  Classical Score : 0.3510
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.50
+  Composite Score : 0.311
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P027
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6349  (threshold=0.50)
+  BiLSTM Score    : 0.5494
+  SciBERT Score   : 0.6867
+  Classical Score : 0.6993
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.83
+  Composite Score : 0.444
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P028
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6688  (threshold=0.50)
+  BiLSTM Score    : 0.5492
+  SciBERT Score   : 0.7389
+  Classical Score : 0.7619
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 4  Tables: 9
+  Math Density    : 0.28
+  Keyword Variety : 0.67
+  Composite Score : 0.272
+  Flags           : FEW_CITES, WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P029
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6172  (threshold=0.50)
+  BiLSTM Score    : 0.5495
+  SciBERT Score   : 0.7139
+  Classical Score : 0.5900
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 2
+  Math Density    : 0.04
+  Keyword Variety : 0.83
+  Composite Score : 0.289
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P030
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7018  (threshold=0.50)
+  BiLSTM Score    : 0.5543
+  SciBERT Score   : 0.8033
+  Classical Score : 0.7955
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 2  Tables: 1
+  Math Density    : 1.00
+  Keyword Variety : 0.50
+  Composite Score : 0.294
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P031
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6732  (threshold=0.50)
+  BiLSTM Score    : 0.5509
+  SciBERT Score   : 0.7240
+  Classical Score : 0.7976
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.28
+  Keyword Variety : 1.00
+  Composite Score : 0.471
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P032
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3116  (threshold=0.50)
+  BiLSTM Score    : 0.5466
+  SciBERT Score   : 0.2107
+  Classical Score : 0.0768
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 0.16
+  Keyword Variety : 0.50
+  Composite Score : 0.370
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P033
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7163  (threshold=0.50)
+  BiLSTM Score    : 0.5528
+  SciBERT Score   : 0.8285
+  Classical Score : 0.8206
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 2  Tables: 4
+  Math Density    : 0.56
+  Keyword Variety : 0.83
+  Composite Score : 0.418
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P034
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7137  (threshold=0.50)
+  BiLSTM Score    : 0.5520
+  SciBERT Score   : 0.8129
+  Classical Score : 0.8335
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 5  Tables: 15
+  Math Density    : 0.52
+  Keyword Variety : 1.00
+  Composite Score : 0.708
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P035
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5921  (threshold=0.50)
+  BiLSTM Score    : 0.5482
+  SciBERT Score   : 0.6423
+  Classical Score : 0.5921
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.24
+  Keyword Variety : 0.67
+  Composite Score : 0.477
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P036
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3287  (threshold=0.50)
+  BiLSTM Score    : 0.5458
+  SciBERT Score   : 0.2545
+  Classical Score : 0.0852
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.08
+  Keyword Variety : 0.67
+  Composite Score : 0.348
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P037
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6867  (threshold=0.50)
+  BiLSTM Score    : 0.5498
+  SciBERT Score   : 0.8174
+  Classical Score : 0.7227
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 5
+  Math Density    : 0.00
+  Keyword Variety : 1.00
+  Composite Score : 0.440
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P038
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4555  (threshold=0.50)
+  BiLSTM Score    : 0.5481
+  SciBERT Score   : 0.5260
+  Classical Score : 0.2087
+  Votes           : 2/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.20
+  Keyword Variety : 1.00
+  Composite Score : 0.483
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P039
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3522  (threshold=0.50)
+  BiLSTM Score    : 0.5478
+  SciBERT Score   : 0.2794
+  Classical Score : 0.1412
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.48
+  Keyword Variety : 0.83
+  Composite Score : 0.326
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P040
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6680  (threshold=0.50)
+  BiLSTM Score    : 0.5504
+  SciBERT Score   : 0.7790
+  Classical Score : 0.7007
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.08
+  Keyword Variety : 0.83
+  Composite Score : 0.254
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P041
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3773  (threshold=0.50)
+  BiLSTM Score    : 0.5478
+  SciBERT Score   : 0.2859
+  Classical Score : 0.2325
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.04
+  Keyword Variety : 1.00
+  Composite Score : 0.427
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P042
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6953  (threshold=0.50)
+  BiLSTM Score    : 0.5532
+  SciBERT Score   : 0.8004
+  Classical Score : 0.7755
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 4  Tables: 2
+  Math Density    : 0.20
+  Keyword Variety : 1.00
+  Composite Score : 0.620
+  Flags           : FEW_CITES, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P043
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3154  (threshold=0.50)
+  BiLSTM Score    : 0.5452
+  SciBERT Score   : 0.2027
+  Classical Score : 0.1054
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.50
+  Composite Score : 0.340
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P044
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6648  (threshold=0.50)
+  BiLSTM Score    : 0.5490
+  SciBERT Score   : 0.7591
+  Classical Score : 0.7181
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 6
+  Math Density    : 0.08
+  Keyword Variety : 0.67
+  Composite Score : 0.353
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P045
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7077  (threshold=0.50)
+  BiLSTM Score    : 0.5515
+  SciBERT Score   : 0.7888
+  Classical Score : 0.8440
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 2  Tables: 14
+  Math Density    : 0.92
+  Keyword Variety : 0.83
+  Composite Score : 0.506
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P046
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7241  (threshold=0.50)
+  BiLSTM Score    : 0.5535
+  SciBERT Score   : 0.8283
+  Classical Score : 0.8512
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 2
+  Figures         : 7  Tables: 3
+  Math Density    : 0.52
+  Keyword Variety : 0.83
+  Composite Score : 0.358
+  Flags           : FEW_CITES, WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P047
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3064  (threshold=0.50)
+  BiLSTM Score    : 0.5457
+  SciBERT Score   : 0.2065
+  Classical Score : 0.0632
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.04
+  Keyword Variety : 0.67
+  Composite Score : 0.417
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P048
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3477  (threshold=0.50)
+  BiLSTM Score    : 0.5456
+  SciBERT Score   : 0.3024
+  Classical Score : 0.0945
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.343
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P049
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7062  (threshold=0.50)
+  BiLSTM Score    : 0.5498
+  SciBERT Score   : 0.8032
+  Classical Score : 0.8204
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.32
+  Keyword Variety : 1.00
+  Composite Score : 0.532
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P050
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7020  (threshold=0.50)
+  BiLSTM Score    : 0.5532
+  SciBERT Score   : 0.8193
+  Classical Score : 0.7757
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.92
+  Keyword Variety : 0.50
+  Composite Score : 0.506
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P051
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6893  (threshold=0.50)
+  BiLSTM Score    : 0.5504
+  SciBERT Score   : 0.8296
+  Classical Score : 0.7153
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 9
+  Math Density    : 0.08
+  Keyword Variety : 0.67
+  Composite Score : 0.468
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P052
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6902  (threshold=0.50)
+  BiLSTM Score    : 0.5506
+  SciBERT Score   : 0.7796
+  Classical Score : 0.7883
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 9
+  Math Density    : 0.20
+  Keyword Variety : 0.83
+  Composite Score : 0.530
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P053
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3245  (threshold=0.50)
+  BiLSTM Score    : 0.5453
+  SciBERT Score   : 0.2549
+  Classical Score : 0.0687
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.00
+  Keyword Variety : 0.67
+  Composite Score : 0.193
+  Flags           : FEW_CITES, NO_FIGS, WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P054
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6788  (threshold=0.50)
+  BiLSTM Score    : 0.5502
+  SciBERT Score   : 0.7060
+  Classical Score : 0.8465
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 2  Tables: 10
+  Math Density    : 0.48
+  Keyword Variety : 0.83
+  Composite Score : 0.572
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P055
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6080  (threshold=0.50)
+  BiLSTM Score    : 0.5490
+  SciBERT Score   : 0.6690
+  Classical Score : 0.6171
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.00
+  Keyword Variety : 0.33
+  Composite Score : 0.268
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P056
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3599  (threshold=0.50)
+  BiLSTM Score    : 0.5459
+  SciBERT Score   : 0.3344
+  Classical Score : 0.0981
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.16
+  Keyword Variety : 0.83
+  Composite Score : 0.267
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P057
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5699  (threshold=0.50)
+  BiLSTM Score    : 0.5491
+  SciBERT Score   : 0.5440
+  Classical Score : 0.6396
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 1  Tables: 0
+  Math Density    : 0.00
+  Keyword Variety : 0.33
+  Composite Score : 0.103
+  Flags           : FEW_CITES, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P058
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7065  (threshold=0.50)
+  BiLSTM Score    : 0.5524
+  SciBERT Score   : 0.7832
+  Classical Score : 0.8456
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 2
+  Figures         : 0  Tables: 1
+  Math Density    : 0.92
+  Keyword Variety : 1.00
+  Composite Score : 0.467
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P059
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7106  (threshold=0.50)
+  BiLSTM Score    : 0.5503
+  SciBERT Score   : 0.8034
+  Classical Score : 0.8370
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 0.64
+  Keyword Variety : 1.00
+  Composite Score : 0.358
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P060
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7102  (threshold=0.50)
+  BiLSTM Score    : 0.5508
+  SciBERT Score   : 0.8190
+  Classical Score : 0.8131
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 4
+  Figures         : 6  Tables: 6
+  Math Density    : 0.44
+  Keyword Variety : 0.67
+  Composite Score : 0.657
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P061
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7074  (threshold=0.50)
+  BiLSTM Score    : 0.5531
+  SciBERT Score   : 0.7817
+  Classical Score : 0.8502
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 11  Tables: 22
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.629
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P062
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6940  (threshold=0.50)
+  BiLSTM Score    : 0.5512
+  SciBERT Score   : 0.8106
+  Classical Score : 0.7593
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 7
+  Figures         : 0  Tables: 6
+  Math Density    : 0.52
+  Keyword Variety : 1.00
+  Composite Score : 0.640
+  Flags           : NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P063
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6681  (threshold=0.50)
+  BiLSTM Score    : 0.5489
+  SciBERT Score   : 0.8344
+  Classical Score : 0.6261
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 0.00
+  Keyword Variety : 0.33
+  Composite Score : 0.251
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P064
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6392  (threshold=0.50)
+  BiLSTM Score    : 0.5492
+  SciBERT Score   : 0.7810
+  Classical Score : 0.5847
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 5
+  Figures         : 0  Tables: 6
+  Math Density    : 0.04
+  Keyword Variety : 0.67
+  Composite Score : 0.570
+  Flags           : NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P065
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6458  (threshold=0.50)
+  BiLSTM Score    : 0.5485
+  SciBERT Score   : 0.7174
+  Classical Score : 0.7014
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.04
+  Keyword Variety : 0.67
+  Composite Score : 0.207
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P066
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7277  (threshold=0.50)
+  BiLSTM Score    : 0.5509
+  SciBERT Score   : 0.8311
+  Classical Score : 0.8658
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 7
+  Figures         : 1  Tables: 10
+  Math Density    : 0.28
+  Keyword Variety : 1.00
+  Composite Score : 0.556
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P067
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6793  (threshold=0.50)
+  BiLSTM Score    : 0.5515
+  SciBERT Score   : 0.7467
+  Classical Score : 0.7894
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 4
+  Figures         : 1  Tables: 0
+  Math Density    : 0.24
+  Keyword Variety : 0.33
+  Composite Score : 0.290
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P068
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6636  (threshold=0.50)
+  BiLSTM Score    : 0.5499
+  SciBERT Score   : 0.7631
+  Classical Score : 0.7063
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.48
+  Keyword Variety : 1.00
+  Composite Score : 0.581
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P069
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3426  (threshold=0.50)
+  BiLSTM Score    : 0.5458
+  SciBERT Score   : 0.2393
+  Classical Score : 0.1621
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.56
+  Keyword Variety : 1.00
+  Composite Score : 0.509
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P070
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3677  (threshold=0.50)
+  BiLSTM Score    : 0.5454
+  SciBERT Score   : 0.3114
+  Classical Score : 0.1622
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.28
+  Keyword Variety : 0.83
+  Composite Score : 0.268
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P071
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6806  (threshold=0.50)
+  BiLSTM Score    : 0.5502
+  SciBERT Score   : 0.8037
+  Classical Score : 0.7167
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 2  Tables: 7
+  Math Density    : 0.04
+  Keyword Variety : 0.83
+  Composite Score : 0.390
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P072
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : HARD_VETO
+  Blended Score   : 0.6780  (threshold=0.50)
+  BiLSTM Score    : 0.5508
+  SciBERT Score   : 0.8165
+  Classical Score : 0.6876
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : STUB: no_figs+no_math+short(691w)
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.127
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P073
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3104  (threshold=0.50)
+  BiLSTM Score    : 0.5462
+  SciBERT Score   : 0.2177
+  Classical Score : 0.0628
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.67
+  Composite Score : 0.308
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P074
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6830  (threshold=0.50)
+  BiLSTM Score    : 0.5496
+  SciBERT Score   : 0.8167
+  Classical Score : 0.7093
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 6
+  Math Density    : 0.08
+  Keyword Variety : 0.83
+  Composite Score : 0.493
+  Flags           : FEW_CITES, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P075
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7039  (threshold=0.50)
+  BiLSTM Score    : 0.5523
+  SciBERT Score   : 0.8185
+  Classical Score : 0.7858
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 11
+  Math Density    : 0.44
+  Keyword Variety : 0.83
+  Composite Score : 0.470
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P076
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4399  (threshold=0.50)
+  BiLSTM Score    : 0.5473
+  SciBERT Score   : 0.4951
+  Classical Score : 0.1908
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.08
+  Keyword Variety : 0.83
+  Composite Score : 0.442
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P077
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3677  (threshold=0.50)
+  BiLSTM Score    : 0.5455
+  SciBERT Score   : 0.3114
+  Classical Score : 0.1622
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.28
+  Keyword Variety : 0.83
+  Composite Score : 0.268
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P078
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4228  (threshold=0.50)
+  BiLSTM Score    : 0.5467
+  SciBERT Score   : 0.3942
+  Classical Score : 0.2645
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.00
+  Keyword Variety : 0.67
+  Composite Score : 0.358
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P079
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6692  (threshold=0.50)
+  BiLSTM Score    : 0.5492
+  SciBERT Score   : 0.8005
+  Classical Score : 0.6774
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 33%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.00
+  Keyword Variety : 0.33
+  Composite Score : 0.109
+  Flags           : LOW_STRUCT, FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P080
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6530  (threshold=0.50)
+  BiLSTM Score    : 0.5495
+  SciBERT Score   : 0.7873
+  Classical Score : 0.6306
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 11  Tables: 0
+  Math Density    : 0.04
+  Keyword Variety : 1.00
+  Composite Score : 0.466
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P081
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3714  (threshold=0.50)
+  BiLSTM Score    : 0.5462
+  SciBERT Score   : 0.3012
+  Classical Score : 0.1898
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.478
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P082
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6970  (threshold=0.50)
+  BiLSTM Score    : 0.5532
+  SciBERT Score   : 0.7873
+  Classical Score : 0.8005
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 2
+  Math Density    : 0.28
+  Keyword Variety : 0.83
+  Composite Score : 0.362
+  Flags           : FEW_CITES, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P083
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6645  (threshold=0.50)
+  BiLSTM Score    : 0.5490
+  SciBERT Score   : 0.7796
+  Classical Score : 0.6884
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 1  Tables: 3
+  Math Density    : 0.00
+  Keyword Variety : 0.67
+  Composite Score : 0.232
+  Flags           : FEW_CITES, WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P084
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6767  (threshold=0.50)
+  BiLSTM Score    : 0.5542
+  SciBERT Score   : 0.7288
+  Classical Score : 0.7995
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 1.00
+  Keyword Variety : 0.50
+  Composite Score : 0.267
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P085
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6876  (threshold=0.50)
+  BiLSTM Score    : 0.5498
+  SciBERT Score   : 0.8014
+  Classical Score : 0.7488
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 4  Tables: 3
+  Math Density    : 0.20
+  Keyword Variety : 0.67
+  Composite Score : 0.513
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P086
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3036  (threshold=0.50)
+  BiLSTM Score    : 0.5475
+  SciBERT Score   : 0.1955
+  Classical Score : 0.0649
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.67
+  Composite Score : 0.424
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P087
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6995  (threshold=0.50)
+  BiLSTM Score    : 0.5524
+  SciBERT Score   : 0.8066
+  Classical Score : 0.7848
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.96
+  Keyword Variety : 0.83
+  Composite Score : 0.374
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P088
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6607  (threshold=0.50)
+  BiLSTM Score    : 0.5527
+  SciBERT Score   : 0.7675
+  Classical Score : 0.6842
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 5
+  Figures         : 15  Tables: 3
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.699
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P089
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7116  (threshold=0.50)
+  BiLSTM Score    : 0.5533
+  SciBERT Score   : 0.8093
+  Classical Score : 0.8283
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 2
+  Figures         : 0  Tables: 0
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.402
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P090
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6986  (threshold=0.50)
+  BiLSTM Score    : 0.5497
+  SciBERT Score   : 0.7961
+  Classical Score : 0.8001
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 6
+  Math Density    : 0.32
+  Keyword Variety : 0.83
+  Composite Score : 0.571
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P091
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6735  (threshold=0.50)
+  BiLSTM Score    : 0.5500
+  SciBERT Score   : 0.7835
+  Classical Score : 0.7171
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 1  Tables: 11
+  Math Density    : 0.08
+  Keyword Variety : 1.00
+  Composite Score : 0.446
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P092
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6584  (threshold=0.50)
+  BiLSTM Score    : 0.5491
+  SciBERT Score   : 0.7726
+  Classical Score : 0.6735
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 18
+  Math Density    : 0.04
+  Keyword Variety : 0.83
+  Composite Score : 0.428
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P093
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6721  (threshold=0.50)
+  BiLSTM Score    : 0.5502
+  SciBERT Score   : 0.7510
+  Classical Score : 0.7568
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 2
+  Figures         : 1  Tables: 24
+  Math Density    : 0.20
+  Keyword Variety : 0.67
+  Composite Score : 0.384
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P094
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3091  (threshold=0.50)
+  BiLSTM Score    : 0.5458
+  SciBERT Score   : 0.2053
+  Classical Score : 0.0757
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.04
+  Keyword Variety : 0.67
+  Composite Score : 0.228
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P095
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6981  (threshold=0.50)
+  BiLSTM Score    : 0.5523
+  SciBERT Score   : 0.7666
+  Classical Score : 0.8354
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 2
+  Figures         : 4  Tables: 4
+  Math Density    : 0.36
+  Keyword Variety : 0.67
+  Composite Score : 0.690
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P096
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3112  (threshold=0.50)
+  BiLSTM Score    : 0.5466
+  SciBERT Score   : 0.2191
+  Classical Score : 0.0634
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.08
+  Keyword Variety : 0.50
+  Composite Score : 0.357
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P097
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3209  (threshold=0.50)
+  BiLSTM Score    : 0.5460
+  SciBERT Score   : 0.2404
+  Classical Score : 0.0736
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.08
+  Keyword Variety : 1.00
+  Composite Score : 0.332
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P098
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4976  (threshold=0.50)
+  BiLSTM Score    : 0.5465
+  SciBERT Score   : 0.6077
+  Classical Score : 0.2653
+  Votes           : 2/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.356
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P099
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7115  (threshold=0.50)
+  BiLSTM Score    : 0.5524
+  SciBERT Score   : 0.8175
+  Classical Score : 0.8177
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.48
+  Keyword Variety : 0.83
+  Composite Score : 0.469
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P100
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3348  (threshold=0.50)
+  BiLSTM Score    : 0.5468
+  SciBERT Score   : 0.2430
+  Classical Score : 0.1241
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.24
+  Keyword Variety : 0.83
+  Composite Score : 0.465
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P101
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6729  (threshold=0.50)
+  BiLSTM Score    : 0.5509
+  SciBERT Score   : 0.7872
+  Classical Score : 0.7081
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 2  Tables: 3
+  Math Density    : 0.04
+  Keyword Variety : 0.83
+  Composite Score : 0.299
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P102
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6800  (threshold=0.50)
+  BiLSTM Score    : 0.5514
+  SciBERT Score   : 0.7335
+  Classical Score : 0.8108
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 16  Tables: 18
+  Math Density    : 0.24
+  Keyword Variety : 1.00
+  Composite Score : 0.589
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P103
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6676  (threshold=0.50)
+  BiLSTM Score    : 0.5501
+  SciBERT Score   : 0.7706
+  Classical Score : 0.7115
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.16
+  Keyword Variety : 0.83
+  Composite Score : 0.370
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P104
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6640  (threshold=0.50)
+  BiLSTM Score    : 0.5485
+  SciBERT Score   : 0.8187
+  Classical Score : 0.6323
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 1
+  Figures         : 0  Tables: 15
+  Math Density    : 0.08
+  Keyword Variety : 1.00
+  Composite Score : 0.573
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P105
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3049  (threshold=0.50)
+  BiLSTM Score    : 0.5471
+  SciBERT Score   : 0.2018
+  Classical Score : 0.0619
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.12
+  Keyword Variety : 0.83
+  Composite Score : 0.399
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P106
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5374  (threshold=0.50)
+  BiLSTM Score    : 0.5489
+  SciBERT Score   : 0.5463
+  Classical Score : 0.5066
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.16
+  Keyword Variety : 0.83
+  Composite Score : 0.327
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P107
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4793  (threshold=0.50)
+  BiLSTM Score    : 0.5474
+  SciBERT Score   : 0.6269
+  Classical Score : 0.1635
+  Votes           : 2/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.04
+  Keyword Variety : 0.83
+  Composite Score : 0.555
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P108
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6389  (threshold=0.50)
+  BiLSTM Score    : 0.5493
+  SciBERT Score   : 0.7331
+  Classical Score : 0.6505
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.00
+  Keyword Variety : 0.50
+  Composite Score : 0.218
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P109
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6970  (threshold=0.50)
+  BiLSTM Score    : 0.5533
+  SciBERT Score   : 0.7878
+  Classical Score : 0.7997
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 5
+  Math Density    : 0.44
+  Keyword Variety : 0.67
+  Composite Score : 0.370
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P110
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6503  (threshold=0.50)
+  BiLSTM Score    : 0.5490
+  SciBERT Score   : 0.7883
+  Classical Score : 0.6192
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.324
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P111
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6600  (threshold=0.50)
+  BiLSTM Score    : 0.5513
+  SciBERT Score   : 0.7503
+  Classical Score : 0.7073
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 2
+  Figures         : 36  Tables: 11
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.552
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P112
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7011  (threshold=0.50)
+  BiLSTM Score    : 0.5509
+  SciBERT Score   : 0.8047
+  Classical Score : 0.7962
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 0.24
+  Keyword Variety : 0.83
+  Composite Score : 0.387
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P113
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6755  (threshold=0.50)
+  BiLSTM Score    : 0.5505
+  SciBERT Score   : 0.7859
+  Classical Score : 0.7210
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.20
+  Keyword Variety : 0.67
+  Composite Score : 0.338
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P114
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5663  (threshold=0.50)
+  BiLSTM Score    : 0.5477
+  SciBERT Score   : 0.5477
+  Classical Score : 0.6223
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.246
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P115
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6938  (threshold=0.50)
+  BiLSTM Score    : 0.5556
+  SciBERT Score   : 0.7772
+  Classical Score : 0.7983
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 24
+  Figures         : 7  Tables: 0
+  Math Density    : 1.00
+  Keyword Variety : 0.67
+  Composite Score : 0.702
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P116
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6860  (threshold=0.50)
+  BiLSTM Score    : 0.5529
+  SciBERT Score   : 0.8058
+  Classical Score : 0.7313
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 3
+  Figures         : 0  Tables: 4
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.534
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P117
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6827  (threshold=0.50)
+  BiLSTM Score    : 0.5510
+  SciBERT Score   : 0.7697
+  Classical Score : 0.7715
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 9
+  Figures         : 6  Tables: 9
+  Math Density    : 0.48
+  Keyword Variety : 0.83
+  Composite Score : 0.665
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P118
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6915  (threshold=0.50)
+  BiLSTM Score    : 0.5516
+  SciBERT Score   : 0.8383
+  Classical Score : 0.7098
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 8  Tables: 9
+  Math Density    : 0.08
+  Keyword Variety : 1.00
+  Composite Score : 0.504
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P119
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3326  (threshold=0.50)
+  BiLSTM Score    : 0.5454
+  SciBERT Score   : 0.2808
+  Classical Score : 0.0646
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.00
+  Keyword Variety : 0.50
+  Composite Score : 0.393
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P120
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7037  (threshold=0.50)
+  BiLSTM Score    : 0.5514
+  SciBERT Score   : 0.8165
+  Classical Score : 0.7893
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.64
+  Keyword Variety : 0.67
+  Composite Score : 0.249
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P121
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6987  (threshold=0.50)
+  BiLSTM Score    : 0.5530
+  SciBERT Score   : 0.7836
+  Classical Score : 0.8132
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 11
+  Figures         : 0  Tables: 6
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.605
+  Flags           : NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P122
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6789  (threshold=0.50)
+  BiLSTM Score    : 0.5521
+  SciBERT Score   : 0.7154
+  Classical Score : 0.8304
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 4
+  Math Density    : 0.88
+  Keyword Variety : 1.00
+  Composite Score : 0.319
+  Flags           : FEW_CITES, NO_FIGS, WEAK_PHRASES
+
+──────────────────────────────────────────────────────────────
+Paper : P123
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7212  (threshold=0.50)
+  BiLSTM Score    : 0.5511
+  SciBERT Score   : 0.8139
+  Classical Score : 0.8633
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 15
+  Figures         : 4  Tables: 31
+  Math Density    : 0.60
+  Keyword Variety : 0.83
+  Composite Score : 0.737
+  Flags           : None
+
+──────────────────────────────────────────────────────────────
+Paper : P124
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5378  (threshold=0.50)
+  BiLSTM Score    : 0.5473
+  SciBERT Score   : 0.6637
+  Classical Score : 0.3463
+  Votes           : 2/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.08
+  Keyword Variety : 0.83
+  Composite Score : 0.432
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P125
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6968  (threshold=0.50)
+  BiLSTM Score    : 0.5523
+  SciBERT Score   : 0.8187
+  Classical Score : 0.7574
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 0
+  Figures         : 10  Tables: 15
+  Math Density    : 0.16
+  Keyword Variety : 1.00
+  Composite Score : 0.583
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P126
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6821  (threshold=0.50)
+  BiLSTM Score    : 0.5542
+  SciBERT Score   : 0.7891
+  Classical Score : 0.7369
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 7
+  Figures         : 0  Tables: 12
+  Math Density    : 1.00
+  Keyword Variety : 0.67
+  Composite Score : 0.624
+  Flags           : NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P127
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6425  (threshold=0.50)
+  BiLSTM Score    : 0.5495
+  SciBERT Score   : 0.7934
+  Classical Score : 0.5799
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 0
+  Math Density    : 0.04
+  Keyword Variety : 0.50
+  Composite Score : 0.216
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P128
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7082  (threshold=0.50)
+  BiLSTM Score    : 0.5503
+  SciBERT Score   : 0.8121
+  Classical Score : 0.8155
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 1
+  Figures         : 3  Tables: 11
+  Math Density    : 0.28
+  Keyword Variety : 1.00
+  Composite Score : 0.578
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P129
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3320  (threshold=0.50)
+  BiLSTM Score    : 0.5462
+  SciBERT Score   : 0.2514
+  Classical Score : 0.1022
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 5
+  Math Density    : 0.28
+  Keyword Variety : 0.67
+  Composite Score : 0.309
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P130
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.4487  (threshold=0.50)
+  BiLSTM Score    : 0.5477
+  SciBERT Score   : 0.4574
+  Classical Score : 0.2783
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 100%
+  Citations       : 0
+  Figures         : 0  Tables: 3
+  Math Density    : 0.08
+  Keyword Variety : 0.67
+  Composite Score : 0.345
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P131
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.6786  (threshold=0.50)
+  BiLSTM Score    : 0.5493
+  SciBERT Score   : 0.8114
+  Classical Score : 0.6996
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 67%
+  Citations       : 1
+  Figures         : 0  Tables: 0
+  Math Density    : 0.00
+  Keyword Variety : 0.83
+  Composite Score : 0.253
+  Flags           : FEW_CITES, NO_FIGS, SHORT
+
+──────────────────────────────────────────────────────────────
+Paper : P132
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.5685  (threshold=0.50)
+  BiLSTM Score    : 0.5495
+  SciBERT Score   : 0.6344
+  Classical Score : 0.5068
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : LOW⚠
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.16
+  Keyword Variety : 0.83
+  Composite Score : 0.316
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P133
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7076  (threshold=0.50)
+  BiLSTM Score    : 0.5510
+  SciBERT Score   : 0.8176
+  Classical Score : 0.8040
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 1
+  Figures         : 5  Tables: 8
+  Math Density    : 0.28
+  Keyword Variety : 1.00
+  Composite Score : 0.484
+  Flags           : FEW_CITES
+
+──────────────────────────────────────────────────────────────
+Paper : P134
+  Decision        : NON-PUBLISHABLE
+  Decision Path   : BELOW_THRESH
+  Blended Score   : 0.3145  (threshold=0.50)
+  BiLSTM Score    : 0.5448
+  SciBERT Score   : 0.2267
+  Classical Score : 0.0689
+  Votes           : 1/3
+  Gate Pass       : False  (majority = votes > n/2)
+  Confidence      : MED
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 2
+  Math Density    : 0.00
+  Keyword Variety : 0.50
+  Composite Score : 0.368
+  Flags           : FEW_CITES, NO_FIGS
+
+──────────────────────────────────────────────────────────────
+Paper : P135
+  Decision        : PUBLISHABLE
+  Decision Path   : DL_ENSEMBLE
+  Blended Score   : 0.7025  (threshold=0.50)
+  BiLSTM Score    : 0.5534
+  SciBERT Score   : 0.7861
+  Classical Score : 0.8239
+  Votes           : 3/3
+  Gate Pass       : True  (majority = votes > n/2)
+  Confidence      : HIGH
+  Veto            : None
+  Section Coverage: 83%
+  Citations       : 0
+  Figures         : 0  Tables: 1
+  Math Density    : 1.00
+  Keyword Variety : 0.83
+  Composite Score : 0.398
+  Flags           : FEW_CITES, NO_FIGS

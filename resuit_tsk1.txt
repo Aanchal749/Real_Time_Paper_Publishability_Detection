@@ -1,0 +1,1892 @@
+KDSH 2025 — Deep Analysis Publishability Report
+=======================================================
+
+───────────────────────────────────────────────────────
+Paper: P001
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4404
+  Ensemble Conf   : 0.5362  (pred=1)
+  Feature Conf    : 0.7031  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P002
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4018
+  Ensemble Conf   : 0.7263  (pred=0)
+  Feature Conf    : 0.5941  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P003
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3975
+  Ensemble Conf   : 0.5251  (pred=0)
+  Feature Conf    : 0.7186  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P004
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9681
+  Ensemble Conf   : 0.9558  (pred=1)
+  Feature Conf    : 0.9865  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.70
+  Pos Signals     : 8   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P005
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4004
+  Ensemble Conf   : 0.5208  (pred=0)
+  Feature Conf    : 0.7178  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P006
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3395
+  Ensemble Conf   : 0.5468  (pred=0)
+  Feature Conf    : 0.8310  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P007
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3854
+  Ensemble Conf   : 0.5150  (pred=1)
+  Feature Conf    : 0.8090  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P008
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9093
+  Ensemble Conf   : 0.9492  (pred=1)
+  Feature Conf    : 0.8495  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 4
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P009
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.7487
+  Ensemble Conf   : 0.8196  (pred=1)
+  Feature Conf    : 0.6424  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.15
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P010
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5689
+  Ensemble Conf   : 0.6467  (pred=1)
+  Feature Conf    : 0.5478  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 6   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P011
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3972
+  Ensemble Conf   : 0.5410  (pred=0)
+  Feature Conf    : 0.6956  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P012
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9595
+  Ensemble Conf   : 0.9333  (pred=1)
+  Feature Conf    : 0.9988  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 10
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P013
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9284
+  Ensemble Conf   : 0.9374  (pred=1)
+  Feature Conf    : 0.9150  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 2
+  Figures         : 0   Tables: 0
+  Math Density    : 0.25
+  Pos Signals     : 3   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P014
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9162
+  Ensemble Conf   : 0.9500  (pred=1)
+  Feature Conf    : 0.8657  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 3
+  Math Density    : 0.00
+  Pos Signals     : 6   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P015
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3803
+  Ensemble Conf   : 0.5276  (pred=0)
+  Feature Conf    : 0.7578  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P016
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3959
+  Ensemble Conf   : 0.5421  (pred=0)
+  Feature Conf    : 0.6971  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P017
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8638
+  Ensemble Conf   : 0.9636  (pred=1)
+  Feature Conf    : 0.7141  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P018
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9217
+  Ensemble Conf   : 0.9617  (pred=1)
+  Feature Conf    : 0.8617  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 4
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 8   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P019
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9354
+  Ensemble Conf   : 0.9141  (pred=1)
+  Feature Conf    : 0.9674  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P020
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5838
+  Ensemble Conf   : 0.5795  (pred=1)
+  Feature Conf    : 0.5903  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P021
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9845
+  Ensemble Conf   : 0.9742  (pred=1)
+  Feature Conf    : 0.9999  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 2
+  Math Density    : 0.35
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : True
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P022
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3950
+  Ensemble Conf   : 0.5595  (pred=0)
+  Feature Conf    : 0.6731  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P023
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5559
+  Ensemble Conf   : 0.5966  (pred=1)
+  Feature Conf    : 0.5052  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P024
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.7963
+  Ensemble Conf   : 0.8790  (pred=1)
+  Feature Conf    : 0.6721  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 3
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P025
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5867
+  Ensemble Conf   : 0.6561  (pred=1)
+  Feature Conf    : 0.5174  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P026
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3776
+  Ensemble Conf   : 0.5689  (pred=0)
+  Feature Conf    : 0.7027  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P027
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3119
+  Ensemble Conf   : 0.5352  (pred=0)
+  Feature Conf    : 0.9176  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.05
+  Pos Signals     : 2   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P028
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4121
+  Ensemble Conf   : 0.5501  (pred=1)
+  Feature Conf    : 0.7950  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P029
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6790
+  Ensemble Conf   : 0.7061  (pred=1)
+  Feature Conf    : 0.6385  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.15
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P030
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9680
+  Ensemble Conf   : 0.9467  (pred=1)
+  Feature Conf    : 0.9999  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 1.00
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P031
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5721
+  Ensemble Conf   : 0.5866  (pred=1)
+  Feature Conf    : 0.5503  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P032
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3385
+  Ensemble Conf   : 0.6075  (pred=0)
+  Feature Conf    : 0.7425  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P033
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9413
+  Ensemble Conf   : 0.9191  (pred=1)
+  Feature Conf    : 0.9746  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 3   Tables: 1
+  Math Density    : 0.45
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P034
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9388
+  Ensemble Conf   : 0.9300  (pred=1)
+  Feature Conf    : 0.9520  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 3
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P035
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3809
+  Ensemble Conf   : 0.5360  (pred=0)
+  Feature Conf    : 0.7438  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P036
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3555
+  Ensemble Conf   : 0.5818  (pred=0)
+  Feature Conf    : 0.7385  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P037
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8493
+  Ensemble Conf   : 0.9416  (pred=1)
+  Feature Conf    : 0.7108  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P038
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4076
+  Ensemble Conf   : 0.5289  (pred=0)
+  Feature Conf    : 0.6877  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P039
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4106
+  Ensemble Conf   : 0.5730  (pred=0)
+  Feature Conf    : 0.6138  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.15
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P040
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4393
+  Ensemble Conf   : 0.5758  (pred=1)
+  Feature Conf    : 0.7653  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 3   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P041
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3236
+  Ensemble Conf   : 0.5936  (pred=0)
+  Feature Conf    : 0.8007  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P042
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9235
+  Ensemble Conf   : 0.9333  (pred=1)
+  Feature Conf    : 0.9089  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 0.15
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P043
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.2856
+  Ensemble Conf   : 0.6068  (pred=0)
+  Feature Conf    : 0.8759  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P044
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3569
+  Ensemble Conf   : 0.5025  (pred=0)
+  Feature Conf    : 0.8539  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P045
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9200
+  Ensemble Conf   : 0.9424  (pred=1)
+  Feature Conf    : 0.8865  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P046
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9702
+  Ensemble Conf   : 0.9550  (pred=1)
+  Feature Conf    : 0.9931  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 2
+  Figures         : 0   Tables: 0
+  Math Density    : 0.30
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P047
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3611
+  Ensemble Conf   : 0.5997  (pred=0)
+  Feature Conf    : 0.6977  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P048
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.2770
+  Ensemble Conf   : 0.6300  (pred=0)
+  Feature Conf    : 0.8624  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P049
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8476
+  Ensemble Conf   : 0.8980  (pred=1)
+  Feature Conf    : 0.7719  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 7   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P050
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4038
+  Ensemble Conf   : 0.5526  (pred=1)
+  Feature Conf    : 0.8193  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=False, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P051
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8992
+  Ensemble Conf   : 0.9383  (pred=1)
+  Feature Conf    : 0.8406  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.20
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P052
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9074
+  Ensemble Conf   : 0.9291  (pred=1)
+  Feature Conf    : 0.8749  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P053
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.2931
+  Ensemble Conf   : 0.5816  (pred=0)
+  Feature Conf    : 0.8948  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P054
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3505
+  Ensemble Conf   : 0.5197  (pred=0)
+  Feature Conf    : 0.8442  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P055
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4009
+  Ensemble Conf   : 0.5312  (pred=0)
+  Feature Conf    : 0.7009  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P056
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3206
+  Ensemble Conf   : 0.5961  (pred=0)
+  Feature Conf    : 0.8042  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P057
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4910
+  Ensemble Conf   : 0.6627  (pred=1)
+  Feature Conf    : 0.7666  (pred=0)
+  Section Coverage: 50.0%  (abstract=True, method=True, results=False, conclusion=False)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P058
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8989
+  Ensemble Conf   : 0.9460  (pred=1)
+  Feature Conf    : 0.8284  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 1
+  Figures         : 0   Tables: 0
+  Math Density    : 0.25
+  Pos Signals     : 4   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P059
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5911
+  Ensemble Conf   : 0.6612  (pred=1)
+  Feature Conf    : 0.5140  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.25
+  Pos Signals     : 5   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P060
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9268
+  Ensemble Conf   : 0.9400  (pred=1)
+  Feature Conf    : 0.9072  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 4
+  Figures         : 1   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P061
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9486
+  Ensemble Conf   : 0.9283  (pred=1)
+  Feature Conf    : 0.9791  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 2   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 7   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P062
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6791
+  Ensemble Conf   : 0.8188  (pred=1)
+  Feature Conf    : 0.5304  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 1
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 8   Neg Signals: 2
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P063
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4497
+  Ensemble Conf   : 0.6379  (pred=1)
+  Feature Conf    : 0.8325  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P064
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9129
+  Ensemble Conf   : 0.9608  (pred=1)
+  Feature Conf    : 0.8411  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 3
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P065
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3629
+  Ensemble Conf   : 0.5360  (pred=0)
+  Feature Conf    : 0.7887  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P066
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8557
+  Ensemble Conf   : 0.9208  (pred=1)
+  Feature Conf    : 0.7580  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 2
+  Figures         : 0   Tables: 1
+  Math Density    : 0.10
+  Pos Signals     : 3   Neg Signals: 2
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P067
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6334
+  Ensemble Conf   : 0.7575  (pred=1)
+  Feature Conf    : 0.5528  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P068
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6973
+  Ensemble Conf   : 0.7197  (pred=1)
+  Feature Conf    : 0.6637  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 5   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P069
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5162
+  Ensemble Conf   : 0.5706  (pred=0)
+  Feature Conf    : 0.6463  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P070
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3234
+  Ensemble Conf   : 0.5849  (pred=0)
+  Feature Conf    : 0.8143  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.05
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P071
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3621
+  Ensemble Conf   : 0.5035  (pred=0)
+  Feature Conf    : 0.8394  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P072
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4638
+  Ensemble Conf   : 0.5844  (pred=1)
+  Feature Conf    : 0.7171  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P073
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3303
+  Ensemble Conf   : 0.8679  (pred=0)
+  Feature Conf    : 0.6277  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P074
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9125
+  Ensemble Conf   : 0.9304  (pred=1)
+  Feature Conf    : 0.8858  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 3
+  Math Density    : 0.05
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P075
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3793
+  Ensemble Conf   : 0.5318  (pred=1)
+  Feature Conf    : 0.8495  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P076
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3427
+  Ensemble Conf   : 0.5576  (pred=0)
+  Feature Conf    : 0.8068  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P077
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3234
+  Ensemble Conf   : 0.5849  (pred=0)
+  Feature Conf    : 0.8143  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.05
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P078
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6217
+  Ensemble Conf   : 0.5064  (pred=1)
+  Feature Conf    : 0.7946  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P079
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6192
+  Ensemble Conf   : 0.8889  (pred=1)
+  Feature Conf    : 0.7853  (pred=0)
+  Section Coverage: 33.29999923706055%  (abstract=True, method=False, results=False, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.25
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : LOW_STRUCTURE, FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P080
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9108
+  Ensemble Conf   : 0.9124  (pred=1)
+  Feature Conf    : 0.9085  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 2   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P081
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3629
+  Ensemble Conf   : 0.5471  (pred=0)
+  Feature Conf    : 0.7721  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P082
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6084
+  Ensemble Conf   : 0.6357  (pred=1)
+  Feature Conf    : 0.5676  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P083
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6747
+  Ensemble Conf   : 0.8012  (pred=1)
+  Feature Conf    : 0.5151  (pred=0)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 0   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P084
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8717
+  Ensemble Conf   : 0.9033  (pred=1)
+  Feature Conf    : 0.8243  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.30
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P085
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4586
+  Ensemble Conf   : 0.5037  (pred=0)
+  Feature Conf    : 0.5978  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P086
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3221
+  Ensemble Conf   : 0.5931  (pred=0)
+  Feature Conf    : 0.8051  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P087
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.7933
+  Ensemble Conf   : 0.8706  (pred=1)
+  Feature Conf    : 0.6773  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.20
+  Pos Signals     : 2   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P088
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9148
+  Ensemble Conf   : 0.9207  (pred=1)
+  Feature Conf    : 0.9059  (pred=1)
+  Section Coverage: 100.0%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P089
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9699
+  Ensemble Conf   : 0.9541  (pred=1)
+  Feature Conf    : 0.9936  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 1
+  Figures         : 0   Tables: 0
+  Math Density    : 0.75
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P090
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4956
+  Ensemble Conf   : 0.6062  (pred=1)
+  Feature Conf    : 0.6702  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 7   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P091
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3599
+  Ensemble Conf   : 0.5392  (pred=0)
+  Feature Conf    : 0.7913  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P092
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9755
+  Ensemble Conf   : 0.9600  (pred=1)
+  Feature Conf    : 0.9987  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 3
+  Math Density    : 0.00
+  Pos Signals     : 7   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P093
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8637
+  Ensemble Conf   : 0.9216  (pred=1)
+  Feature Conf    : 0.7768  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 3
+  Math Density    : 0.05
+  Pos Signals     : 3   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P094
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.2061
+  Ensemble Conf   : 0.7991  (pred=0)
+  Feature Conf    : 0.7860  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P095
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5672
+  Ensemble Conf   : 0.7030  (pred=1)
+  Feature Conf    : 0.6366  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.05
+  Pos Signals     : 7   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P096
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.2999
+  Ensemble Conf   : 0.6005  (pred=0)
+  Feature Conf    : 0.8495  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P097
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3483
+  Ensemble Conf   : 0.5888  (pred=0)
+  Feature Conf    : 0.7460  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.05
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P098
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3604
+  Ensemble Conf   : 0.5359  (pred=0)
+  Feature Conf    : 0.7950  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P099
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.7452
+  Ensemble Conf   : 0.8333  (pred=1)
+  Feature Conf    : 0.6130  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.20
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P100
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3901
+  Ensemble Conf   : 0.5622  (pred=0)
+  Feature Conf    : 0.6814  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P101
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8086
+  Ensemble Conf   : 0.9275  (pred=1)
+  Feature Conf    : 0.6304  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 2   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 1   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P102
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9532
+  Ensemble Conf   : 0.9231  (pred=1)
+  Feature Conf    : 0.9983  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 3   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P103
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8514
+  Ensemble Conf   : 0.9035  (pred=1)
+  Feature Conf    : 0.7733  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.15
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P104
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4855
+  Ensemble Conf   : 0.6219  (pred=1)
+  Feature Conf    : 0.7190  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P105
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3907
+  Ensemble Conf   : 0.5632  (pred=0)
+  Feature Conf    : 0.6785  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P106
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3805
+  Ensemble Conf   : 0.5393  (pred=0)
+  Feature Conf    : 0.7397  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P107
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3375
+  Ensemble Conf   : 0.5410  (pred=0)
+  Feature Conf    : 0.8448  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P108
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4808
+  Ensemble Conf   : 0.5939  (pred=1)
+  Feature Conf    : 0.6890  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P109
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.7858
+  Ensemble Conf   : 0.8370  (pred=1)
+  Feature Conf    : 0.7091  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.05
+  Pos Signals     : 6   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P110
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6591
+  Ensemble Conf   : 0.8688  (pred=1)
+  Feature Conf    : 0.6555  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P111
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6274
+  Ensemble Conf   : 0.6656  (pred=1)
+  Feature Conf    : 0.5700  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P112
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.4695
+  Ensemble Conf   : 0.5211  (pred=1)
+  Feature Conf    : 0.6079  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P113
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5104
+  Ensemble Conf   : 0.5200  (pred=1)
+  Feature Conf    : 0.5039  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P114
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3006
+  Ensemble Conf   : 0.5575  (pred=0)
+  Feature Conf    : 0.9124  (pred=0)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=False, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P115
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9153
+  Ensemble Conf   : 0.9253  (pred=1)
+  Feature Conf    : 0.9003  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=False, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 0
+  Math Density    : 0.40
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P116
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9577
+  Ensemble Conf   : 0.9617  (pred=1)
+  Feature Conf    : 0.9517  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 3
+  Figures         : 0   Tables: 0
+  Math Density    : 0.25
+  Pos Signals     : 7   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P117
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9676
+  Ensemble Conf   : 0.9466  (pred=1)
+  Feature Conf    : 0.9990  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 1.00
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P118
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9850
+  Ensemble Conf   : 0.9817  (pred=1)
+  Feature Conf    : 0.9899  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 3
+  Math Density    : 0.30
+  Pos Signals     : 6   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P119
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.2916
+  Ensemble Conf   : 0.5759  (pred=0)
+  Feature Conf    : 0.9070  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 0   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P120
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9407
+  Ensemble Conf   : 0.9483  (pred=1)
+  Feature Conf    : 0.9292  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.50
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P121
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9617
+  Ensemble Conf   : 0.9566  (pred=1)
+  Feature Conf    : 0.9693  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 7
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 6   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P122
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.7297
+  Ensemble Conf   : 0.8045  (pred=1)
+  Feature Conf    : 0.6175  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P123
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.6255
+  Ensemble Conf   : 0.7833  (pred=1)
+  Feature Conf    : 0.6112  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 1   Tables: 3
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P124
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3825
+  Ensemble Conf   : 0.5435  (pred=0)
+  Feature Conf    : 0.7285  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P125
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9499
+  Ensemble Conf   : 0.9416  (pred=1)
+  Feature Conf    : 0.9623  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 0
+  Figures         : 2   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 4   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P126
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9760
+  Ensemble Conf   : 0.9600  (pred=1)
+  Feature Conf    : 0.9999  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 6
+  Figures         : 0   Tables: 0
+  Math Density    : 1.00
+  Pos Signals     : 7   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P127
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3374
+  Ensemble Conf   : 0.5325  (pred=0)
+  Feature Conf    : 0.8576  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P128
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9428
+  Ensemble Conf   : 0.9400  (pred=1)
+  Feature Conf    : 0.9471  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 2
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P129
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3127
+  Ensemble Conf   : 0.5959  (pred=0)
+  Feature Conf    : 0.8244  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 3   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P130
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3425
+  Ensemble Conf   : 0.5435  (pred=0)
+  Feature Conf    : 0.8287  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P131
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.8416
+  Ensemble Conf   : 0.8785  (pred=1)
+  Feature Conf    : 0.7863  (pred=1)
+  Section Coverage: 66.69999694824219%  (abstract=True, method=True, results=True, conclusion=False)
+  Citations       : 2
+  Figures         : 0   Tables: 0
+  Math Density    : 0.20
+  Pos Signals     : 2   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P132
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.5790
+  Ensemble Conf   : 0.5077  (pred=0)
+  Feature Conf    : 0.7090  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 1
+  Math Density    : 0.00
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P133
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9353
+  Ensemble Conf   : 0.9658  (pred=1)
+  Feature Conf    : 0.8896  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 2   Tables: 0
+  Math Density    : 0.10
+  Pos Signals     : 3   Neg Signals: 1
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS
+
+───────────────────────────────────────────────────────
+Paper: P134
+  Final Decision  : NON-PUBLISHABLE
+  Blended Score   : 0.3750
+  Ensemble Conf   : 0.5743  (pred=0)
+  Feature Conf    : 0.7011  (pred=0)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.00
+  Pos Signals     : 6   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
+
+───────────────────────────────────────────────────────
+Paper: P135
+  Final Decision  : PUBLISHABLE
+  Blended Score   : 0.9349
+  Ensemble Conf   : 0.9674  (pred=1)
+  Feature Conf    : 0.8862  (pred=1)
+  Section Coverage: 83.30000305175781%  (abstract=True, method=True, results=True, conclusion=True)
+  Citations       : 0
+  Figures         : 0   Tables: 0
+  Math Density    : 0.30
+  Pos Signals     : 5   Neg Signals: 0
+  Ablation Study  : False
+  Flags           : FEW_CITATIONS, NO_FIGURES
