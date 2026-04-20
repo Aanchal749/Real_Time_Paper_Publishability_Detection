@@ -1,51 +1,58 @@
-<<<<<<< HEAD
-# Real_Time_Paper_Publishability_Detection
-The Real-Time Paper Publishability Detection System is an AI-powered platform that evaluates whether a research paper is suitable for publication in real time. It leverages Natural Language Processing, machine learning, and academic quality metrics to analyze research manuscripts and provide instant feedback on their publishability.
-=======
-# KDSH 2025 — Pathway Hackathon Solution
+# 🎓 Academic Publishability Engine: KDSH 2025
 
-## Your Dataset Structure
-```
-drive-download.../
-├── Papers/
-│   ├── P001.pdf ... P150.pdf
-└── Reference/
-    ├── Non-Publishable/  *.pdf
-    └── Publishable/
-        ├── CVPR/
-        ├── EMNLP/
-        ├── KDD/
-        ├── NeurIPS/
-        └── TMLR/
-```
+> **An enterprise-grade, multimodal AI pipeline that evaluates research artifacts for publication readiness and dynamically routes them to optimal ML conferences.**
 
-## Run
+![Output Screenshot](./assets/main-screenshot.png) *(Note: Replace with actual image path)*
 
-### Step 1 — Publishability
+---
+
+## 🎯 Problem Statement
+The academic peer-review process is notoriously slow, and researchers often struggle to identify the optimal venue for their work. Furthermore, conference organizers spend countless hours manually filtering out structurally flawed submissions.
+
+The **Academic Publishability Engine** bridges this gap. By leveraging a multi-stage machine learning architecture—combining deep learning, semantic similarity, and classical ML ensembles—the system instantly acts as a gatekeeper for academic rigor and routes valid papers to top-tier venues (CVPR, EMNLP, KDD, NeurIPS, TMLR) with confidence-calibrated probability scoring.
+
+---
+
+## ✨ Key Features
+* **Heuristic Gatekeeper:** Automatically filters out incomplete drafts by analyzing document depth, academic structure, and citation integrity before engaging heavy ML models.
+* **4-Stage Multi-Model Ensemble:** Combines PyTorch BiGRUs, SentenceTransformers (SBERT), Zero-Shot LLM Classification, and a Classical ML Voting Ensemble (RF, LR, ET) for highly accurate routing.
+* **Modern Professional UI:** A high-contrast, responsive Streamlit dashboard featuring custom CSS, dynamic probability bars, and detailed evaluation rationales.
+* **Multimodal Extraction:** Seamlessly parses both complex academic PDFs (via PyMuPDF) and raw CSV data streams.
+* **Secure Data Vault:** Live integration with Supabase (PostgreSQL) for secure, real-time logging of paper evaluations and routing predictions.
+
+---
+
+## 🛠️ Tech Stack & Infrastructure
+* **Frontend:** Streamlit, Custom CSS
+* **Deep Learning & NLP:** PyTorch, HuggingFace (`transformers`), `sentence-transformers`
+* **Classical ML Engine:** Scikit-Learn (TF-IDF, TruncatedSVD, VotingClassifier)
+* **Document Processing:** PyMuPDF (`fitz`), Pandas, Regex
+* **Cloud Database & Storage:** Supabase (PostgreSQL)
+* **Vector Indexing (Task 2):** Pathway RAG 
+
+---
+
+## 📸 System Output & Visuals
+
+### 1. 🖥️ The Enterprise Dashboard
+The main evaluation interface featuring active ensemble tracking and system status.
+![Dashboard Screenshot](./assets/dashboard.png)
+
+### 2. 🚫 Gatekeeper Rejection
+Real-time structural analysis blocking a non-publishable artifact.
+![Rejection Screenshot](./assets/rejected.png)
+
+### 3. ✅ AI Routing Rationale
+A successfully accepted paper dynamically routed to a conference, complete with keyword extraction and soft-voting probability distributions.
+![Accepted Screenshot](./assets/accepted.png)
+
+---
+
+## 🚀 Local Installation & Setup
+
+If you wish to run this evaluation pipeline on your local machine, follow these steps:
+
+**1️⃣ Clone the repository**
 ```bash
-export ANTHROPIC_API_KEY="sk-ant-..."
-python task1_publishability.py --papers_dir ./Papers --reference_dir ./Reference --output results_task1.csv
-```
-
-### Step 2 — Conference Selection (local, no GDrive needed)
-```bash
-python task2_conference.py --task1_csv results_task1.csv --papers_dir ./Papers --reference_dir ./Reference --output results_task2.csv
-```
-
-### Step 2 — Conference Selection (Pathway + Google Drive)
-```bash
-export OPENAI_API_KEY="sk-..."
-python task2_conference.py --task1_csv results_task1.csv --papers_dir ./Papers --gdrive_folder_id FOLDER_ID --service_account service_account.json --output results_task2.csv
-```
-
-### Step 3 — Final CSV
-```bash
-python merge_results.py --task2_csv results_task2.csv --output results.csv
-```
-
-## Install
-```bash
-pip install anthropic pymupdf pathway requests scikit-learn openai
-```
-Note: Pathway requires Linux/macOS. Windows users: use WSL or Docker.
->>>>>>> 6fa1e40 (Initial commit)
+git clone [https://github.com/Aanchal749/Real_Time_Paper_Publishability_Detection.git](https://github.com/Aanchal749/Real_Time_Paper_Publishability_Detection.git)
+cd Real_Time_Paper_Publishability_Detection
