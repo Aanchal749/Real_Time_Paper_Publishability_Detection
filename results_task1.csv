@@ -1,136 +1,136 @@
-Paper ID,Publishable,Confidence,Blended_Score,Ensemble_Score,Feature_Score,Section_Coverage,Citations,Figures,Has_Ablation
-P001,0,0.5596,0.4404,0.5362,0.2969,83.3,0,0,0
-P002,0,0.5982,0.4018,0.2737,0.5941,100.0,0,0,0
-P003,0,0.6025,0.3975,0.4749,0.2814,83.3,0,0,0
-P004,1,0.9681,0.9681,0.9558,0.9865,66.7,0,0,0
-P005,0,0.5996,0.4004,0.4792,0.2822,83.3,0,0,0
-P006,0,0.6605,0.3395,0.4532,0.169,83.3,0,0,0
-P007,0,0.6146,0.3854,0.515,0.191,83.3,0,0,0
-P008,1,0.9093,0.9093,0.9492,0.8495,66.7,4,0,0
-P009,1,0.7487,0.7487,0.8196,0.6424,83.3,0,0,0
-P010,1,0.5689,0.5689,0.6467,0.4522,83.3,0,0,0
-P011,0,0.6028,0.3972,0.459,0.3044,83.3,0,0,0
-P012,1,0.9595,0.9595,0.9333,0.9988,83.3,10,0,0
-P013,1,0.9284,0.9284,0.9374,0.915,83.3,2,0,0
-P014,1,0.9162,0.9162,0.95,0.8657,66.7,0,0,0
-P015,0,0.6197,0.3803,0.4724,0.2422,83.3,0,0,0
-P016,0,0.6041,0.3959,0.4579,0.3029,83.3,0,0,0
-P017,1,0.8638,0.8638,0.9636,0.7141,83.3,0,1,0
-P018,1,0.9217,0.9217,0.9617,0.8617,83.3,4,0,0
-P019,1,0.9354,0.9354,0.9141,0.9674,83.3,0,0,0
-P020,1,0.5838,0.5838,0.5795,0.5903,83.3,0,0,0
-P021,1,0.9845,0.9845,0.9742,0.9999,83.3,0,1,1
-P022,0,0.605,0.395,0.4405,0.3269,83.3,0,0,0
-P023,1,0.5559,0.5559,0.5966,0.4948,83.3,0,0,0
-P024,1,0.7963,0.7963,0.879,0.6721,83.3,3,0,0
-P025,1,0.5867,0.5867,0.6561,0.4826,83.3,0,0,0
-P026,0,0.6224,0.3776,0.4311,0.2973,83.3,0,0,0
-P027,0,0.6881,0.3119,0.4648,0.0824,83.3,0,0,0
-P028,0,0.5879,0.4121,0.5501,0.205,83.3,0,0,0
-P029,1,0.679,0.679,0.7061,0.6385,83.3,0,0,0
-P030,1,0.968,0.968,0.9467,0.9999,83.3,0,1,0
-P031,1,0.5721,0.5721,0.5866,0.5503,83.3,0,0,0
-P032,0,0.6615,0.3385,0.3925,0.2575,83.3,0,0,0
-P033,1,0.9413,0.9413,0.9191,0.9746,83.3,0,3,0
-P034,1,0.9388,0.9388,0.93,0.952,83.3,0,0,0
-P035,0,0.6191,0.3809,0.464,0.2562,83.3,0,0,0
-P036,0,0.6445,0.3555,0.4182,0.2615,83.3,0,0,0
-P037,1,0.8493,0.8493,0.9416,0.7108,83.3,0,1,0
-P038,0,0.5924,0.4076,0.4711,0.3123,83.3,0,0,0
-P039,0,0.5894,0.4106,0.427,0.3862,83.3,0,0,0
-P040,0,0.5607,0.4393,0.5758,0.2347,66.7,0,0,0
-P041,0,0.6764,0.3236,0.4064,0.1993,83.3,0,0,0
-P042,1,0.9235,0.9235,0.9333,0.9089,83.3,0,1,0
-P043,0,0.7144,0.2856,0.3932,0.1241,83.3,0,0,0
-P044,0,0.6431,0.3569,0.4975,0.1461,83.3,0,0,0
-P045,1,0.92,0.92,0.9424,0.8865,66.7,0,0,0
-P046,1,0.9702,0.9702,0.955,0.9931,83.3,2,0,0
-P047,0,0.6389,0.3611,0.4003,0.3023,83.3,0,0,0
-P048,0,0.723,0.277,0.37,0.1376,83.3,0,0,0
-P049,1,0.8476,0.8476,0.898,0.7719,83.3,0,0,0
-P050,0,0.5962,0.4038,0.5526,0.1807,66.7,0,0,0
-P051,1,0.8992,0.8992,0.9383,0.8406,83.3,0,0,0
-P052,1,0.9074,0.9074,0.9291,0.8749,100.0,0,0,0
-P053,0,0.7069,0.2931,0.4184,0.1052,83.3,0,0,0
-P054,0,0.6495,0.3505,0.4803,0.1558,83.3,0,0,0
-P055,0,0.5991,0.4009,0.4688,0.2991,83.3,0,0,0
-P056,0,0.6794,0.3206,0.4039,0.1958,83.3,0,0,0
-P057,0,0.509,0.491,0.6627,0.2334,50.0,0,1,0
-P058,1,0.8989,0.8989,0.946,0.8284,66.7,1,0,0
-P059,1,0.5911,0.5911,0.6612,0.486,66.7,0,0,0
-P060,1,0.9268,0.9268,0.94,0.9072,66.7,4,1,0
-P061,1,0.9486,0.9486,0.9283,0.9791,83.3,0,2,0
-P062,1,0.6791,0.6791,0.8188,0.4696,83.3,1,0,0
-P063,0,0.5503,0.4497,0.6379,0.1675,83.3,0,0,0
-P064,1,0.9129,0.9129,0.9608,0.8411,83.3,3,0,0
-P065,0,0.6371,0.3629,0.464,0.2113,83.3,0,0,0
-P066,1,0.8557,0.8557,0.9208,0.758,83.3,2,0,0
-P067,1,0.6334,0.6334,0.7575,0.4472,66.7,0,1,0
-P068,1,0.6973,0.6973,0.7197,0.6637,83.3,0,0,0
-P069,1,0.5162,0.5162,0.4294,0.6463,100.0,0,0,0
-P070,0,0.6766,0.3234,0.4151,0.1857,83.3,0,0,0
-P071,0,0.6379,0.3621,0.4965,0.1606,83.3,0,0,0
-P072,0,0.5362,0.4638,0.5844,0.2829,83.3,0,0,0
-P073,0,0.6697,0.3303,0.1321,0.6277,100.0,0,0,0
-P074,1,0.9125,0.9125,0.9304,0.8858,83.3,0,1,0
-P075,0,0.6207,0.3793,0.5318,0.1505,83.3,0,0,0
-P076,0,0.6573,0.3427,0.4424,0.1932,83.3,0,0,0
-P077,0,0.6766,0.3234,0.4151,0.1857,83.3,0,0,0
-P078,1,0.6217,0.6217,0.5064,0.7946,100.0,0,0,0
-P079,1,0.6192,0.6192,0.8889,0.2147,33.3,0,0,0
-P080,1,0.9108,0.9108,0.9124,0.9085,100.0,0,2,0
-P081,0,0.6371,0.3629,0.4529,0.2279,83.3,0,0,0
-P082,1,0.6084,0.6084,0.6357,0.5676,83.3,0,0,0
-P083,1,0.6747,0.6747,0.8012,0.4849,100.0,0,1,0
-P084,1,0.8717,0.8717,0.9033,0.8243,83.3,0,0,0
-P085,0,0.5414,0.4586,0.4963,0.4022,66.7,0,0,0
-P086,0,0.6779,0.3221,0.4069,0.1949,83.3,0,0,0
-P087,1,0.7933,0.7933,0.8706,0.6773,66.7,0,0,0
-P088,1,0.9148,0.9148,0.9207,0.9059,100.0,0,0,0
-P089,1,0.9699,0.9699,0.9541,0.9936,66.7,1,0,0
-P090,0,0.5044,0.4956,0.6062,0.3298,83.3,0,0,0
-P091,0,0.6401,0.3599,0.4608,0.2087,83.3,0,0,0
-P092,1,0.9755,0.9755,0.96,0.9987,83.3,0,0,0
-P093,1,0.8637,0.8637,0.9216,0.7768,83.3,0,0,0
-P094,0,0.7939,0.2061,0.2009,0.214,83.3,0,0,0
-P095,1,0.5672,0.5672,0.703,0.3634,83.3,0,0,0
-P096,0,0.7001,0.2999,0.3995,0.1505,83.3,0,0,0
-P097,0,0.6517,0.3483,0.4112,0.254,83.3,0,0,0
-P098,0,0.6396,0.3604,0.4641,0.205,83.3,0,0,0
-P099,1,0.7452,0.7452,0.8333,0.613,83.3,0,0,0
-P100,0,0.6099,0.3901,0.4378,0.3186,83.3,0,0,0
-P101,1,0.8086,0.8086,0.9275,0.6304,66.7,0,2,0
-P102,1,0.9532,0.9532,0.9231,0.9983,66.7,0,3,0
-P103,1,0.8514,0.8514,0.9035,0.7733,83.3,0,0,0
-P104,0,0.5145,0.4855,0.6219,0.281,83.3,0,0,0
-P105,0,0.6093,0.3907,0.4368,0.3215,83.3,0,0,0
-P106,0,0.6195,0.3805,0.4607,0.2603,83.3,0,0,0
-P107,0,0.6625,0.3375,0.459,0.1552,83.3,0,0,0
-P108,0,0.5192,0.4808,0.5939,0.311,66.7,0,0,0
-P109,1,0.7858,0.7858,0.837,0.7091,83.3,0,0,0
-P110,1,0.6591,0.6591,0.8688,0.3445,66.7,0,0,0
-P111,1,0.6274,0.6274,0.6656,0.57,83.3,0,1,0
-P112,0,0.5305,0.4695,0.5211,0.3921,83.3,0,0,0
-P113,1,0.5104,0.5104,0.52,0.4961,83.3,0,0,0
-P114,0,0.6994,0.3006,0.4425,0.0876,66.7,0,0,0
-P115,1,0.9153,0.9153,0.9253,0.9003,66.7,0,1,0
-P116,1,0.9577,0.9577,0.9617,0.9517,83.3,3,0,0
-P117,1,0.9676,0.9676,0.9466,0.999,83.3,0,0,0
-P118,1,0.985,0.985,0.9817,0.9899,83.3,0,1,0
-P119,0,0.7084,0.2916,0.4241,0.093,83.3,0,0,0
-P120,1,0.9407,0.9407,0.9483,0.9292,83.3,0,0,0
-P121,1,0.9617,0.9617,0.9566,0.9693,66.7,7,0,0
-P122,1,0.7297,0.7297,0.8045,0.6175,83.3,0,0,0
-P123,1,0.6255,0.6255,0.7833,0.3888,83.3,0,1,0
-P124,0,0.6175,0.3825,0.4565,0.2715,83.3,0,0,0
-P125,1,0.9499,0.9499,0.9416,0.9623,66.7,0,2,0
-P126,1,0.976,0.976,0.96,0.9999,83.3,6,0,0
-P127,0,0.6626,0.3374,0.4675,0.1424,83.3,0,0,0
-P128,1,0.9428,0.9428,0.94,0.9471,83.3,0,0,0
-P129,0,0.6873,0.3127,0.4041,0.1756,83.3,0,0,0
-P130,0,0.6575,0.3425,0.4565,0.1713,83.3,0,0,0
-P131,1,0.8416,0.8416,0.8785,0.7863,66.7,2,0,0
-P132,1,0.579,0.579,0.4923,0.709,83.3,0,0,0
-P133,1,0.9353,0.9353,0.9658,0.8896,83.3,0,2,0
-P134,0,0.625,0.375,0.4257,0.2989,83.3,0,0,0
-P135,1,0.9349,0.9349,0.9674,0.8862,83.3,0,0,0
+Paper ID,Publishable,Confidence,Rationale,Key Issues,Strengths
+P001,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P002,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P003,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P004,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P005,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P006,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P007,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P008,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P009,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P010,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P011,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P012,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P013,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P014,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P015,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P016,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P017,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P018,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P019,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P020,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P021,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P022,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P023,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P024,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P025,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P026,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P027,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P028,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P029,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P030,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P031,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P032,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P033,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P034,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P035,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P036,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P037,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P038,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P039,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P040,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P041,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P042,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P043,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P044,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P045,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P046,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P047,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P048,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P049,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P050,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P051,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P052,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P053,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P054,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P055,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P056,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P057,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P058,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P059,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P060,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P061,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P062,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P063,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P064,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P065,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P066,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P067,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P068,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P069,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P070,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P071,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P072,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P073,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P074,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P075,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P076,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P077,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P078,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P079,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P080,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P081,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P082,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P083,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P084,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P085,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P086,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P087,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P088,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P089,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P090,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P091,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P092,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P093,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P094,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P095,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P096,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P097,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P098,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P099,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P100,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P101,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P102,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P103,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P104,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P105,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P106,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P107,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P108,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P109,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P110,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P111,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P112,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P113,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P114,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P115,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P116,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P117,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P118,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P119,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P120,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P121,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P122,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P123,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P124,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P125,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P126,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P127,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P128,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P129,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P130,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P131,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P132,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P133,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P134,0,low,Could not evaluate paper.,Evaluation failed after retries,
+P135,0,low,Could not evaluate paper.,Evaluation failed after retries,
