@@ -9,9 +9,8 @@ Papers/
 Paper.csv 
 *.pdf 
 *.json 
-Papers/ 
-Papers.csv/ 
-Reference/ 
+
+
 "all_output CSV"/ 
 *.pdf 
 *.json 
