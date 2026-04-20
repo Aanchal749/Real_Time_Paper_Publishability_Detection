@@ -89,7 +89,10 @@ server = VectorStoreServer(
 # Run server in background on port 8000
 print("Starting VectorStore server...")
 server.run_server(host="127.0.0.1", port=8000, threaded=True)
-time.sleep(3) # Give the server a moment to ingest data and start up
+
+# Increased sleep time to ensure the local server finishes indexing before we query it
+print("Indexing documents... please wait.")
+time.sleep(5) 
 
 # Initialize the Client used to query the server inside the loop
 rag_client = VectorStoreClient(host="127.0.0.1", port=8000)
