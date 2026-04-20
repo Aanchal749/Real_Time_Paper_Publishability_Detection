@@ -1,11 +1,7 @@
 streamlit
-torch
-sentence-transformers
-transformers
-scikit-learn
-pandas
-numpy
-pymupdf
 anthropic
 PyMuPDF
+supabase
 pathway[all]
+scikit-learn
+torch
