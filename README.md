@@ -2,7 +2,7 @@
 
 > **An enterprise-grade, multimodal AI pipeline that evaluates research artifacts for publication readiness and dynamically routes them to optimal ML conferences.**
 
-![Output Screenshot](./assets/main-screenshot.png) *(Note: Replace with actual image path)*
+![Output Screenshot](web output.png) *(Note: Replace with actual image path)*
 
 ---
 
